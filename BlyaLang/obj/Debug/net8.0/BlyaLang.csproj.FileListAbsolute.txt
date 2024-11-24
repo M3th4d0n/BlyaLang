@@ -1,0 +1,14 @@
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\bin\Debug\net8.0\BlyaLang.exe
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\bin\Debug\net8.0\BlyaLang.deps.json
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\bin\Debug\net8.0\BlyaLang.runtimeconfig.json
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\bin\Debug\net8.0\BlyaLang.dll
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\bin\Debug\net8.0\BlyaLang.pdb
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.AssemblyInfoInputs.cache
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.AssemblyInfo.cs
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.csproj.CoreCompileInputs.cache
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.dll
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\refint\BlyaLang.dll
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.pdb
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\BlyaLang.genruntimeconfig.cache
+C:\Users\nulll\RiderProjects\BlyaLang\BlyaLang\obj\Debug\net8.0\ref\BlyaLang.dll
